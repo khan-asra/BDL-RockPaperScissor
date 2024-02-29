@@ -1,9 +1,9 @@
 
 # What is random class in Python?
 
-# The Python import random module in Python defines a series of functions for generating 
+# The Python import random module in Python defines a series of functions for generating
 #or manipulating random integers. Python random() is a pseudo-random number generator 
-#function that generates a random float number between 0.0 and 1.0, is used by functions 
+#function that generates a random float number between 0.0 and 1.0, is used by functions
 #in the random module.
 
 import math
